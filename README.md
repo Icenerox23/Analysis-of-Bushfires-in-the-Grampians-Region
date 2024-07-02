@@ -1,6 +1,9 @@
 # Analysis of Bushfires in the Grampians Region
 This is a comprehensive analysis of bushfire risk in the Grampians region of Victoria which makes up 20% of its landscape, focusing on the McArthur Forest Fire Danger Index (FFDI) as the main tool in understanding the changing dynamics of the bushfire seasons throughout the past 70 years.
 
+# Acknowledgement
+A great thanks for Dr Savin Chand for guiding me through this process, and Soubhik Biswas for supplying the data used to conduct this analysis.
+
 # Forest Fire Danger Index
 The McArthur Forest Fire Danger Index or FFDI is a common tool used in many regions of Australia to measure bushfire danger risk. The FFDI is calculated based on various factors which include temperature, humidity, wind speed and fuel availability also called the Drought Factor (DF) (Dowdy, 2017). This form of measurement will make the basis of this analysis, with data thankfully gathered by Soubhik Biswas as part of his PhD thesis, which spans from 1950-2020. ![image](https://github.com/Icenerox23/Analysis-of-Bushfires-in-the-Grampians-Region/assets/110153933/a55e2bcd-5d89-47af-9d68-c6b8c089cb19)
 
